@@ -1,1 +1,1 @@
-A simple caculator for computer GUI£º
+A simple caculator for computer GUI.
